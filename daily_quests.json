@@ -1,0 +1,281 @@
+{
+  "2025-12-01": [
+    {
+      "quest": "Собери и отсортируй 1 кг мусора на улице",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_action",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-02": [
+    {
+      "quest": "Замени одну пластиковую вещь на экологичную альтернативу",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_lifestyle", 
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-03": [
+    {
+      "quest": "Посади дерево или комнатное растение",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_action",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-04": [
+    {
+      "quest": "Создай систему раздельного сбора отходов дома",
+      "gift": "10 баллов в категории eco", 
+      "category": "eco_infrastructure",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-05": [
+    {
+      "quest": "Проведи день без одноразового пластика",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_lifestyle",
+      "completed": false, 
+      "success": false
+    }
+  ],
+  "2025-12-06": [
+    {
+      "quest": "Изучи и внедри один метод компостирования",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_education",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-07": [
+    {
+      "quest": "Создай эко-сумку из старой одежды",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_creativity",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-08": [
+    {
+      "quest": "Организуйте уборку территории с друзьями",
+      "gift": "20 баллов в категории eco", 
+      "category": "eco_social",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-09": [
+    {
+      "quest": "Проверь и улучшь энергоэффективность дома",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_infrastructure",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-10": [
+    {
+      "quest": "Создай вермиферму для переработки отходов",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_technology",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-11": [
+    {
+      "quest": "Проведи мастер-класс по экологии для детей",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_social",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-12": [
+    {
+      "quest": "Разработай маршрут для сбора вторсырья в районе",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_infrastructure",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-13": [
+    {
+      "quest": "Создай арт-объект из переработанных материалов",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_creativity", 
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-14": [
+    {
+      "quest": "Организуй пункт приема батареек в своем доме",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_infrastructure",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-15": [
+    {
+      "quest": "Проведи исследование местной экологической проблемы",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_research",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-16": [
+    {
+      "quest": "Создай систему сбора дождевой воды",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_technology",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-17": [
+    {
+      "quest": "Разработай экологичный маршрут передвижения по городу",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_mobility",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-18": [
+    {
+      "quest": "Проведи акцию по обмену вещами",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_social",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-19": [
+    {
+      "quest": "Создай руководство по экологичному образу жизни",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_education",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-20": [
+    {
+      "quest": "Организуй мониторинг качества воздуха в районе",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_research",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-21": [
+    {
+      "quest": "Построй кормушки для птиц из вторсырья",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_creativity",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-22": [
+    {
+      "quest": "Внедри систему умного энергопотребления",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_technology",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-23": [
+    {
+      "quest": "Проведи кампанию по озеленению района",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_social",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-24": [
+    {
+      "quest": "Создай новогодние украшения из переработанных материалов",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_creativity",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-25": [
+    {
+      "quest": "Организуй экологичный праздник без отходов",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_lifestyle",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-26": [
+    {
+      "quest": "Разработай план по снижению углеродного следа",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_planning",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-27": [
+    {
+      "quest": "Создай карту экологических точек города",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_infrastructure",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-28": [
+    {
+      "quest": "Проведи эксперимент по очистке воды",
+      "gift": "20 баллов в категории eco",
+      "category": "eco_research",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-29": [
+    {
+      "quest": "Организуй сбор макулатуры в своем доме",
+      "gift": "10 баллов в категории eco",
+      "category": "eco_action",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-30": [
+    {
+      "quest": "Создай вертикальный сад из пластиковых бутылок",
+      "gift": "15 баллов в категории eco",
+      "category": "eco_technology",
+      "completed": false,
+      "success": false
+    }
+  ],
+  "2025-12-31": [
+    {
+      "quest": "Разработай экологический план на следующий год",
+      "gift": "25 баллов в категории eco",
+      "category": "eco_planning",
+      "completed": false,
+      "success": false
+    }
+  ]
+}
